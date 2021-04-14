@@ -9,6 +9,7 @@
 - 🥅 2021 Goal - Offically become an SDET
 - ⚡ Fun fact - Anime enthusiast
 - 📫 Contact me at 801-636-0753 please text me first so I know who you are, otherwise I may be hesitant to answer.
+- ✨ Job roles - I've been a Customer service representative, Application data processor, Quality monitoring analyst, Quality Assurance specialist
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
